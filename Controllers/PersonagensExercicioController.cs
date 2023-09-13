@@ -102,7 +102,7 @@ namespace RpgApi.Controllers
             return Ok(personagensDaClasse);
         }
 
-
+        
     
 
         
